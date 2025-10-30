@@ -22,12 +22,16 @@ Here is the structured path this project follows. Each item links to its respect
 
 * [**01 - Foundations**](./01_Foundations/)
 * [**02 - Operators**](./02_Operators/)
-* [**03 - Data Structures**](./03_Data_Structures/) *(In Progress)*
-* [**04 - Control Flow**](./04_Control_Flow/) *(Up Next)*
-* (...this list will be updated as the project progresses)*
+* [**03 - Data Structures**](./03_Data_Structures/)
+* [**04 - Control Flow**](./04_Control_Flow/) *(In Progress)*
+* [**05 - Functions**](./05_Functions/) *(Up Next)*
+* [**06 - Modules Packages**](./06_Modules_Packages/)
+* [**07 - File IO**](./07_File_IO/)
+* [**08 - Error Handling**](./08_Error_Handling/)
+* [**09 - Object Oriented Prog**](./09_Object_Oriented_Prog/)
 
 ## Current Status
 
-* **✅ Completed:** Module 01, Module 02
-* **⏳ In Progress:** Module 03 - Data Structures
-* **➡️ Up Next:** Module 04 - Control Flow
+* **✅ Completed:** Module 01, Module 02, Module 03
+* **⏳ In Progress:** Module 04 - Control Flow
+* **➡️ Up Next:** Module 05 - Functions
